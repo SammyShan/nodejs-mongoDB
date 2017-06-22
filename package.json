@@ -1,0 +1,21 @@
+{
+  "name": "node-mongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "connect-mongo": "^1.3.2",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "express-validator": "^3.2.0",
+    "md5": "^2.2.1",
+    "mongoose": "^4.9.9",
+    "socket.io": "^2.0.1"
+  }
+}
